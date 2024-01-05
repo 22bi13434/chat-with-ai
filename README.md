@@ -4,4 +4,4 @@
 
 - Credit:
   Author: Bui Quang Trung
-  University of science and technology of Ha Noi(Gen13 - 22BI13434)
+  - University of science and technology of Ha Noi(Gen13 - 22BI13434)
