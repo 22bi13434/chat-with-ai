@@ -2,6 +2,12 @@
 
 This repository contains the source code for the ChatWithAI project, a simple web application hosted at [https://chatwithai.pythonanywhere.com](https://chatwithai.pythonanywhere.com).
 
+## Author
+
+- **Author:** Bui Quang Trung
+- **Affiliation:** University of Science and Technology of Hanoi
+- **Student ID:** Gen13 - 22BI13434
+
 ## Important Note
 
 1. **OpenAI API Expiry:**
@@ -12,13 +18,6 @@ This repository contains the source code for the ChatWithAI project, a simple we
      ```
      pip install Werkzeug==2.2.0
      ```
-
-## Author
-
-- **Author:** Bui Quang Trung
-- **Affiliation:** University of Science and Technology of Hanoi
-- **Student ID:** Gen13 - 22BI13434
-
 ## Getting Started
 
 To run the project locally, follow these steps:
