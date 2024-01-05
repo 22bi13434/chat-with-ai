@@ -30,8 +30,9 @@ To run the project locally, follow these steps:
    pip install -r requirements.txt
 3. **Update the OpenAI API key:**
 Replace the placeholder API key in the source code with your valid OpenAI API key.
-4. **Contribution:**
+
+## Contribution
 If you would like to contribute to the project, please fork the repository and submit a pull request.
 
-5. **License:**
+## License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code.
