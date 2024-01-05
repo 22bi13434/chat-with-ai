@@ -5,7 +5,7 @@ This repository contains the source code for the ChatWithAI project, a simple we
 ## Author
 
 - **Author:** Bui Quang Trung
-- **Affiliation:** University of Science and Technology of Hanoi
+- **University:** University of Science and Technology of Hanoi
 - **Student ID:** Gen13 - 22BI13434
 
 ## Important Note
