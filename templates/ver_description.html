@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Version History</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="description" content="Engaging in a human-like conversation with an artificial intelligence agent using natural language processing algorithms to understand user input and generate appropriate responses.">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.rtl.min.css" >
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="https://chatwithai.pythonanywhere.com">
+      <img src="{{ url_for('static', filename='logo.png') }}" alt="Logo" width="50" height="50">
+      <span class="ml-2"><b>Chat with AI</b></span>
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+      aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="https://chatwithai.pythonanywhere.com">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/version">Version</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/about">About us</a>
+        </li>
+          </a>
+      </ul>
+    </div>
+  </nav>
+  <br>
+<h3 style="text-align: center;">Version History</h3>
+<ul>
+    <li>Version 1.0.1 - Operated a basic chatbot with limited responses and functionalities.</li>
+    <li>Version 1.0.2 - Fixed bugs, Updated UI, Enhanced conversation flow.</li>
+    <li>Version 1.0.3 - Fixed bugs, Improved the hardware to process faster. The AI could generate upto 30 responses per minute.</li>
+    <li>Version 1.1.0 - Fixed bugs, Added a feature for the chatbot to remember the conversation history.</li>
+    <li>Version 1.1.1 - Fixed bugs, Updated UI, Enhanced user experience.</li>
+</ul>
+  <!-- Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.0.9/dist/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+</body>
+</html>
